@@ -1,0 +1,3 @@
+﻿namespace Website.SerenityPOC.BasicSamples {
+}
+
